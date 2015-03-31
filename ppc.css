@@ -1,3 +1,7 @@
+html, body{
+    background-color: black;
+}
+
 #header{
     height: 200px;
     background-color: lightgray;

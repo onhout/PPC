@@ -8,7 +8,7 @@ html body{
 }
 
 #header{
-    background-color: whitesmoke;
+    background-color: #EEEEEE;
     padding: 0 30px;
 }
 
@@ -31,4 +31,34 @@ html body{
     text-decoration: none;
     color:dimgray;
     font-size: 12px;
+}
+
+#container{
+    padding:15px 30px;
+}
+
+.theheadings{
+    background-color: #F4C300;
+    padding:6px;
+    font-size: 15px;
+}
+
+#about{
+    display:inline-block;
+    vertical-align: top;
+    margin: 0 0 0 5px;
+    width:510px;
+    height:259px;
+}
+
+#pic{
+    display:inline-block;
+    margin: 0 5px 0 0;
+}
+
+#paragraphs{
+    padding:23px;
+    background-color: #323232;
+    font-size: 13px;
+    color:white;
 }

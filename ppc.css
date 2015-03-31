@@ -62,3 +62,58 @@ html body{
     font-size: 13px;
     color:white;
 }
+#gap{
+    color: #858F46;
+    font-size: 12px;
+    margin: 10px 0 5px 60px;
+}
+
+#sections > div{
+    display:inline-block;
+    vertical-align: top;
+}
+
+#section1{
+    width:215px;
+    margin: 0 5px 0 0;
+    height: 260px;
+    background-color: white;
+}
+
+#section2{
+    width:215px;
+    margin: 0 5px;
+    height: 260px;
+    background-color: white;
+}
+
+#section3{
+    width:215px;
+    margin: 0 5px;
+    height: 260px;
+    background-color: white;
+}
+
+#section4{
+    width:215px;
+    margin: 0 0 0 5px;
+    height: 260px;
+    background-color: white;
+}
+
+#sections > div > img:not(.readmorebutton){
+    width: 100%;
+    height: auto;
+}
+
+.classpara{
+    color:black;
+    font-size: 12px;
+    padding:13px;
+    height: 60px;
+}
+
+.readmorebutton{
+    width:50%;
+    margin:0 0 0 100px;
+}
